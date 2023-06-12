@@ -1,2 +1,2 @@
-#!/bin/bash
-find rev | -empty | cut -d'/' -f1 |rev
+#!bin/bash
+find . -empty -printf '%f\n'
