@@ -1,7 +1,7 @@
-# ALX
 
+# ALX System Engineering and Devops
 
-## ALX System Engineering and Devops
+![alt text](https://th.bing.com/th/id/OIP.FSpbo91H4Z0nTjXo45JFlAHaD8?w=319&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7)
 
 Projects covered so far
 |Project                                    |        Description                              |
